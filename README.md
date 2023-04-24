@@ -1,1 +1,1 @@
-# Osadnici_z_katanu
+# Osadnici z katanu
