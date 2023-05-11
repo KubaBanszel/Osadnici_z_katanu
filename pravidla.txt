@@ -22,4 +22,4 @@ cesta = dřevo + cihly
 
 vesnice = vlna + obilí + cihly + dřevo 
 
-mesto = 3*kámen + 2*obilí 
+mesto = 3*kámen + 2*obilí  
