@@ -1,1 +1,25 @@
-Tady budou pravidla hry
+Pravidla python hry osadníci z katanu 
+
+Hra pro 4 hráče 
+
+Mapa 5x5 
+
+Hrači sbírají suroviny (obilí, vlna, dřevo cihly, kámen) ,ze kterých staví cesty , města nebo vesnice 
+
+Suroviny se sbírají na herních polích kde je znázorněn piktogram suroviny 
+
+Pole ze kterého se získává surovina je určeno hodem dvou kostek 
+
+Z pole se získávají suroviny pomocí měst nebo vesnic, které se umisťují na spojnici polí 
+
+3 stejné libovolné suroviny se dají vyměnit za jednu jakoukoli jinou  
+
+ 
+
+Stavby a suroviny k nim potřebné: 
+
+cesta = dřevo + cihly 
+
+vesnice = vlna + obilí + cihly + dřevo 
+
+mesto = 3*kámen + 2*obilí 
