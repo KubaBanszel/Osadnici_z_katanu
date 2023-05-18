@@ -1,3 +1,2 @@
 import kostka
-import pocetHracu
-
+import pohyb_hrace
