@@ -1,7 +1,7 @@
 import tahy
 
-print(polehrace.count(1))
-print(polehrace.count(2))
-print(polehrace.count(3))
-print(polehrace.count(4))
-print(polehrace.count(5))
+print(poleHrace.count(1))
+print(poleHrace.count(2))
+print(poleHrace.count(3))
+print(poleHrace.count(4))
+print(poleHrace.count(5))
