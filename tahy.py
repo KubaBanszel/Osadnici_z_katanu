@@ -4,7 +4,7 @@ import GAME
 
 poleHrace = []
 
-if hrac_x and hrac_y == 1:
+if hrac_x and hrac_y == 0:
     if penize >= 5:
         odpoved = input("Chceš si zde koupit budovu? Ano = a; Ne = n:")
         if odpoved == "a":
