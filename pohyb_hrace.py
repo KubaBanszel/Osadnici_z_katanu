@@ -6,7 +6,7 @@ hrac_x = 0
 hrac_y = 0
 
 def pohyb():
-    while tah <21:
+    if tah <=20:
         print(f"Jsi na tahu číslo {tah}")
         tah += 1
         for y in range(MAP_HEIGHT):
@@ -29,5 +29,6 @@ def pohyb():
             hrac_y += 1  
         elif smer == "d" and hrac_x < MAP_WIDTH - 1:
             hrac_x += 1 
-
+    else:
+        print("Již jsi dohrál")
 
