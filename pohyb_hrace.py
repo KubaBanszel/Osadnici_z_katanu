@@ -7,8 +7,9 @@ hrac_x = 0
 hrac_y = 0
 
 
-while True:
-   
+while tah <21:
+   tah += 1
+   print(f"Jsi na tahu číslo {tah}")
     for y in range(MAP_HEIGHT):
         for x in range(MAP_WIDTH):
             if x == hrac_x and y == hrac_y:
