@@ -1,11 +1,14 @@
-MAP_WIDTH = 5
-MAP_HEIGHT = 5
-tah = 1
-
 hrac_x = 0
 hrac_y = 0
-
+tah = 1
 def pohyb():
+    MAP_WIDTH = 5
+    MAP_HEIGHT = 5
+    global tah
+    global hrac_x
+    global hrac_y
+
+    
     if tah <=20:
         print(f"Jsi na tahu číslo {tah}")
         tah += 1
@@ -31,4 +34,3 @@ def pohyb():
             hrac_x += 1 
     else:
         print("Již jsi dohrál")
-
