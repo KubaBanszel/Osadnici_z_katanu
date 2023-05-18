@@ -12,4 +12,5 @@ if hrac_x and hrac_y == 1:
             penize -= 5
         else:
             pohyb()
-            
+    else:
+        pohyb()
