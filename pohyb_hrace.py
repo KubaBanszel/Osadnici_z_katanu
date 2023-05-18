@@ -1,15 +1,14 @@
-
 MAP_WIDTH = 5
 MAP_HEIGHT = 5
 
 
 hrac_x = 0
 hrac_y = 0
-
+tah = 1
 
 while tah <21:
-   tah += 1
-   print(f"Jsi na tahu číslo {tah}")
+    print(f"Jsi na tahu číslo {tah}")
+    tah += 1
     for y in range(MAP_HEIGHT):
         for x in range(MAP_WIDTH):
             if x == hrac_x and y == hrac_y:
@@ -31,5 +30,4 @@ while tah <21:
     elif smer == "d" and hrac_x < MAP_WIDTH - 1:
         hrac_x += 1 
 
-    import os
-    os.system("cls" if os.name == "nt" else "clear")
+
