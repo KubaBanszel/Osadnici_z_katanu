@@ -7,10 +7,10 @@ poleHrace = []
 hrac_x = 0
 hrac_y = 0
 cisloTahu = 1
-def zacit():
-    print("Vítej ve hře Turista v Katanu!\n Při cestování ti zloděj zajal syna.\n Jako výkupné po tobě chce 75 peněz, které musíš získat nakupováním a prodáváním budov")
-    print("Přečti si pravidla a vydej se")
-    print(f"\n hru spustíš zadáním příkazu tah().")
+
+print("Vítej ve hře Turista v Katanu!\n Při cestování ti zloděj zajal syna.\n Jako výkupné po tobě chce 75 peněz, které musíš získat nakupováním a prodáváním budov")
+print("Přečti si pravidla a vydej se")
+print(f"\n hru spustíš zadáním příkazu tah().")
     
 def tah():
     global penize
