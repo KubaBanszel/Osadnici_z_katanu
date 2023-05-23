@@ -84,7 +84,7 @@ def tah():
             penize += budovy5 * 1
 
         
-    print(f"Na kastce padlo číslo {aktivniBudova}. Dostaneš tolik peněz, kolik máš na tomto číslu budov.\n Nyní máš {penize} peněz.")
+    print(f"Na kostce padlo číslo {aktivniBudova}. Dostaneš tolik peněz, kolik máš na tomto číslu budov.\n Nyní máš {penize} peněz.")
 #Při dosažení 75 peněz hra končí
     if penize >= 75 and cisloTahu <= 20:
         print(f"Gratuluji ,hru jsi vyhrál!\n Máš o {penize - 75} více peněz než bylo potřeba.\n Vyhrál jsi na tahu číslo {cisloTahu}.")
