@@ -143,7 +143,7 @@ def tah():
             else:
                 tah()
         
-        elif hrac_x == 0 and hrac_y == 1:
+        elif hrac_x == 1 and hrac_y == 0:
             if penize >= 5:
                 odpoved = input("Chceš si zde koupit budovu? Ano = a; Ne = n:")
                 if odpoved == "a":
@@ -154,7 +154,7 @@ def tah():
             else:
                 tah()
 
-        elif hrac_x == 0 and hrac_y == 2:
+        elif hrac_x == 2 and hrac_y == 0:
             if penize >= 5:
                 odpoved = input("Chceš si zde koupit budovu? Ano = a; Ne = n:")
                 if odpoved == "a":
@@ -165,7 +165,7 @@ def tah():
             else:
                 tah()
 
-        elif hrac_x == 0 and hrac_y == 3:
+        elif hrac_x == 3 and hrac_y == 0:
             if penize >= 5:
                 odpoved = input("Chceš si zde koupit budovu? Ano = a; Ne = n:")
                 if odpoved == "a":
@@ -176,7 +176,7 @@ def tah():
             else:
                 tah()
         
-        elif hrac_x == 0 and hrac_y == 4:
+        elif hrac_x == 4 and hrac_y == 0:
             if penize >= 5:
                 odpoved = input("Chceš si zde koupit budovu? Ano = a; Ne = n:")
                 if odpoved == "a":
@@ -187,7 +187,7 @@ def tah():
             else:
                 tah()
 
-        elif hrac_x == 1 and hrac_y == 0:
+        elif hrac_x == 0 and hrac_y == 1:
             if penize >= 5:
                 odpoved = input("Chceš si zde koupit budovu? Ano = a; Ne = n:")
                 if odpoved == "a":
@@ -209,7 +209,7 @@ def tah():
             else:
                 tah()
         
-        elif hrac_x == 1 and hrac_y == 2:
+        elif hrac_x == 2 and hrac_y == 1:
             if penize >= 5:
                 odpoved = input("Chceš si zde koupit budovu? Ano = a; Ne = n:")
                 if odpoved == "a":
@@ -220,7 +220,7 @@ def tah():
             else:
                 tah()
 
-        elif hrac_x == 1 and hrac_y == 3:
+        elif hrac_x == 3 and hrac_y == 1:
             if penize >= 5:
                 odpoved = input("Chceš si zde koupit budovu? Ano = a; Ne = n:")
                 if odpoved == "a":
@@ -231,7 +231,7 @@ def tah():
             else:
                 tah()
         
-        elif hrac_x == 1 and hrac_y == 4:
+        elif hrac_x == 4 and hrac_y == 1:
             if penize >= 5:
                 odpoved = input("Chceš si zde koupit budovu? Ano = a; Ne = n:")
                 if odpoved == "a":
@@ -242,7 +242,7 @@ def tah():
             else:
                 tah()
 
-        elif hrac_x == 2 and hrac_y == 0:
+        elif hrac_x == 0 and hrac_y == 2:
             if penize >= 5:
                 odpoved = input("Chceš si zde koupit budovu? Ano = a; Ne = n:")
                 if odpoved == "a":
@@ -253,7 +253,7 @@ def tah():
             else:
                 tah()
 
-        elif hrac_x == 2 and hrac_y == 1:
+        elif hrac_x == 1 and hrac_y == 2:
             if penize >= 5:
                 odpoved = input("Chceš si zde koupit budovu? Ano = a; Ne = n:")
                 if odpoved == "a":
@@ -275,7 +275,7 @@ def tah():
             else:
                 tah()
         
-        elif hrac_x == 2 and hrac_y == 3:
+        elif hrac_x == 3 and hrac_y == 2:
             if penize >= 5:
                 odpoved = input("Chceš si zde koupit budovu? Ano = a; Ne = n:")
                 if odpoved == "a":
@@ -286,7 +286,7 @@ def tah():
             else:
                 tah()
 
-        elif hrac_x == 2 and hrac_y == 4:
+        elif hrac_x == 4 and hrac_y == 2:
             if penize >= 5:
                 odpoved = input("Chceš si zde koupit budovu? Ano = a; Ne = n:")
                 if odpoved == "a":
@@ -297,7 +297,7 @@ def tah():
             else:
                 tah()
 
-        elif hrac_x == 3 and hrac_y == 0:
+        elif hrac_x == 0 and hrac_y == 3:
             if penize >= 5:
                 odpoved = input("Chceš si zde koupit budovu? Ano = a; Ne = n:")
                 if odpoved == "a":
@@ -308,7 +308,7 @@ def tah():
             else:
                 tah()
 
-        elif hrac_x == 3 and hrac_y == 1:
+        elif hrac_x == 1 and hrac_y == 3:
             if penize >= 5:
                 odpoved = input("Chceš si zde koupit budovu? Ano = a; Ne = n:")
                 if odpoved == "a":
@@ -319,7 +319,7 @@ def tah():
             else:
                 tah()
 
-        elif hrac_x == 0 and hrac_y == 2:
+        elif hrac_x == 2 and hrac_y == 3:
             if penize >= 5:
                 odpoved = input("Chceš si zde koupit budovu? Ano = a; Ne = n:")
                 if odpoved == "a":
@@ -341,7 +341,7 @@ def tah():
             else:
                 tah()
 
-        elif hrac_x == 3 and hrac_y == 4:
+        elif hrac_x == 4 and hrac_y == 3:
             if penize >= 5:
                 odpoved = input("Chceš si zde koupit budovu? Ano = a; Ne = n:")
                 if odpoved == "a":
@@ -352,7 +352,7 @@ def tah():
             else:
                 tah()
             
-        elif hrac_x == 4 and hrac_y == 0:
+        elif hrac_x == 0 and hrac_y == 4:
             if penize >= 5:
                 odpoved = input("Chceš si zde koupit budovu? Ano = a; Ne = n:")
                 if odpoved == "a":
@@ -363,7 +363,7 @@ def tah():
             else:
                 tah()
 
-        elif hrac_x == 4 and hrac_y == 1:
+        elif hrac_x == 1 and hrac_y == 4:
             if penize >= 5:
                 odpoved = input("Chceš si zde koupit budovu? Ano = a; Ne = n:")
                 if odpoved == "a":
@@ -374,7 +374,7 @@ def tah():
             else:
                 tah()
 
-        elif hrac_x == 4 and hrac_y == 2:
+        elif hrac_x == 2 and hrac_y == 4:
             if penize >= 5:
                 odpoved = input("Chceš si zde koupit budovu? Ano = a; Ne = n:")
                 if odpoved == "a":
@@ -385,7 +385,7 @@ def tah():
             else:
                 tah()
         
-        elif hrac_x == 4 and hrac_y == 3:
+        elif hrac_x == 3 and hrac_y == 4:
             if penize >= 5:
                 odpoved = input("Chceš si zde koupit budovu? Ano = a; Ne = n:")
                 if odpoved == "a":
