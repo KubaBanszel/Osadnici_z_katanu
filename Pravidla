@@ -1,0 +1,23 @@
+Pravidla hry dobyvatel
+30 tahů
+Hráč si kupuje nemovitosti které mu vydělávají peníze
+Po mapě se hráč pohybuje pomocí tlačítek W, A, S, D
+
+Příprava hry 
+Hráč si otevře hru a k tomu mapu, prosíme snažte se mít otevřenou mapu vedle hry, tak abyste viděli na obě věci zároveň
+
+Cíl hry 
+Hráč musí do třiceti tahů vydělat 50 zlaťáků, za které si koupí šlechtický titul 
+Ekonomika
+nemovitost				          cena				produkce
+Důl
+	                      7	                       2
+Pole
+	                     10	                       3
+Les
+	                     10	                       3
+Cihlárna
+	                     15	                       4
+Stádo ovcí
+	                      5	                       1
+
