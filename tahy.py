@@ -73,15 +73,15 @@ def tah():
         
     elif aktivniBudova == 3:
             budovy3 = poleHrace.count("3")
-            penize += budovy3 * 1
+            penize += budovy3 * 3
 
     elif aktivniBudova == 4:
             budovy4 = poleHrace.count("4")
-            penize += budovy4 * 1
+            penize += budovy4 * 2
 
     elif aktivniBudova == 5:
             budovy5 = poleHrace.count("5")
-            penize += budovy5 * 1
+            penize += budovy5 * 2
 
         
     print(f"Na kostce padlo číslo {aktivniBudova}. Dostaneš tolik peněz, kolik máš na tomto číslu budov.\n Nyní máš {penize} peněz.")
@@ -148,7 +148,7 @@ def tah():
                 odpoved = input("Chceš si zde koupit budovu? Ano = a; Ne = n:")
                 if odpoved == "a":
                     poleHrace.append("3")
-                    penize -= 5
+                    penize -= 10
                 else:
                     tah()
             else:
@@ -159,7 +159,7 @@ def tah():
                 odpoved = input("Chceš si zde koupit budovu? Ano = a; Ne = n:")
                 if odpoved == "a":
                     poleHrace.append("5")
-                    penize -= 5
+                    penize -= 7
                 else:
                     tah()
             else:
@@ -170,7 +170,7 @@ def tah():
                 odpoved = input("Chceš si zde koupit budovu? Ano = a; Ne = n:")
                 if odpoved == "a":
                     poleHrace.append("4")
-                    penize -= 5
+                    penize -= 7
                 else:
                     tah()
             else:
@@ -192,7 +192,7 @@ def tah():
                 odpoved = input("Chceš si zde koupit budovu? Ano = a; Ne = n:")
                 if odpoved == "a":
                     poleHrace.append("4")
-                    penize -= 5
+                    penize -= 7
                 else:
                     tah()
             else:
@@ -225,7 +225,7 @@ def tah():
                 odpoved = input("Chceš si zde koupit budovu? Ano = a; Ne = n:")
                 if odpoved == "a":
                     poleHrace.append("3")
-                    penize -= 5
+                    penize -= 10
                 else:
                     tah()
             else:
@@ -236,7 +236,7 @@ def tah():
                 odpoved = input("Chceš si zde koupit budovu? Ano = a; Ne = n:")
                 if odpoved == "a":
                     poleHrace.append("4")
-                    penize -= 5
+                    penize -= 7
                 else:
                     tah()
             else:
@@ -258,7 +258,7 @@ def tah():
                 odpoved = input("Chceš si zde koupit budovu? Ano = a; Ne = n:")
                 if odpoved == "a":
                     poleHrace.append("5")
-                    penize -= 5
+                    penize -= 7
                 else:
                     tah()
             else:
@@ -291,7 +291,7 @@ def tah():
                 odpoved = input("Chceš si zde koupit budovu? Ano = a; Ne = n:")
                 if odpoved == "a":
                     poleHrace.append("5")
-                    penize -= 5
+                    penize -= 7
                 else:
                     tah()
             else:
@@ -313,7 +313,7 @@ def tah():
                 odpoved = input("Chceš si zde koupit budovu? Ano = a; Ne = n:")
                 if odpoved == "a":
                     poleHrace.append("4")
-                    penize -= 5
+                    penize -= 7
                 else:
                     tah()
             else:
@@ -324,7 +324,7 @@ def tah():
                 odpoved = input("Chceš si zde koupit budovu? Ano = a; Ne = n:")
                 if odpoved == "a":
                     poleHrace.append("3")
-                    penize -= 5
+                    penize -= 10
                 else:
                     tah()
             else:
@@ -335,7 +335,7 @@ def tah():
                 odpoved = input("Chceš si zde koupit budovu? Ano = a; Ne = n:")
                 if odpoved == "a":
                     poleHrace.append("4")
-                    penize -= 5
+                    penize -= 7
                 else:
                     tah()
             else:
@@ -357,7 +357,7 @@ def tah():
                 odpoved = input("Chceš si zde koupit budovu? Ano = a; Ne = n:")
                 if odpoved == "a":
                     poleHrace.append("5")
-                    penize -= 5
+                    penize -= 7
                 else:
                     tah()
             else:
@@ -368,7 +368,7 @@ def tah():
                 odpoved = input("Chceš si zde koupit budovu? Ano = a; Ne = n:")
                 if odpoved == "a":
                     poleHrace.append("3")
-                    penize -= 5
+                    penize -= 10
                 else:
                     tah()
             else:
@@ -379,7 +379,7 @@ def tah():
                 odpoved = input("Chceš si zde koupit budovu? Ano = a; Ne = n:")
                 if odpoved == "a":
                     poleHrace.append("5")
-                    penize -= 5
+                    penize -= 7
                 else:
                     tah()
             else:
@@ -390,7 +390,7 @@ def tah():
                 odpoved = input("Chceš si zde koupit budovu? Ano = a; Ne = n:")
                 if odpoved == "a":
                     poleHrace.append("3")
-                    penize -= 5
+                    penize -= 10
                 else:
                     tah()
             else:
