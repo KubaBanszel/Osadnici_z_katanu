@@ -9,14 +9,16 @@ Hráč si otevře hru a k tomu mapu, prosíme snažte se mít otevřenou mapu ve
 Cíl hry 
 Hráč musí do dvaceti tahů vydělat 50 zlaťáků, za které vykoupí svého syna.
 Ekonomika
+
+Hráč může každé kolo prodat jednu budovu dle svého výběru a dostane za ni 4 peníze.
 nemovitost		    cena	         produkce
 Důl			     5			     1
 	                      	                      
-Pole			     5			     1
+Pole			     10			     3
 	                     	                      
-Les			     5			     1
+Les			     7			     2
 	                     	                      
-Cihlárna		     5			     1
+Cihlárna		     7			     2
 	                     	                      
 Stádo ovcí		     5			     1
 	                      	                      
